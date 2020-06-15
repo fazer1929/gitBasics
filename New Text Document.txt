@@ -1,4 +1,8 @@
 Hello World
 Hello Kuldeep
+<<<<<<< HEAD
 Hello EveryOne
 
+=======
+Hello Nayan
+>>>>>>> 217a07c09eeece1ac54cb15325a108bc70470e57
